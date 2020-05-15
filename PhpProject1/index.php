@@ -72,7 +72,7 @@ and open the template in the editor.
         <input type="submit" value="Elementos" onclick="location.href='elementos.php'" />
         <input type="submit" value="Clases" onclick="location.href='clases.php'" />
         <input type="submit" value="Familias" onclick="location.href='familias.php'"/>
-        <input type="submit" value="Heroes con A" onclick="location.href='HeroesA.php'"/>
+        <input type="submit" value="Heroes con A" onclick="location.href='heroesA.php'"/>
         <br>
         <table id="heroesh">
             <tr>
